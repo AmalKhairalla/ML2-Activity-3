@@ -21,11 +21,11 @@ This project applies PCA for dimensionality reduction and DBSCAN for clustering,
 - PCA visualization
 
 **Amal Khairalla :**
-- DBSCAN on original and PCA data
-- Parameter tuning (eps, min_samples)
-- Clustering visualization (including noise)
-- Counting clusters and noise points
-- Results comparison and analysis
+- Applied DBSCAN on original and PCA data
+- Tuned parameters (eps, min_samples)
+- Generated cluster visualizations
+- Identified clusters and noise points
+- Compared results and summarized findings
 
 ## Run
 Install required libraries:
